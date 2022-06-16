@@ -1,6 +1,6 @@
 # Modern FitnessExercise Application
 
-### Created using
+### This app created using
 
 - [React 18](https://reactjs.org/blog/2022/03/29/react-v18.html)
 - [Material UI 5.6](https://mui.com/) - comprehensive suite of UI tools
